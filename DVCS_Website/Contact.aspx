@@ -6,6 +6,9 @@
     <address>
         North Pole?
     </address>
+    <address>
+        Equator?
+    </address>
 
     <address>
         South Pole? 
